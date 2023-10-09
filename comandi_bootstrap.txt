@@ -1,0 +1,12 @@
+usare le class per dare tutte impsotazioni con bootstrap, vedendo i dati sul sito di boostrap.
+Non c'è tutto su bootstrap, quello che vuoi fare che manca usare CSS.
+
+SITO DIVISO IN GRIGLIA: sempre 3 classi:
+
+- container 
+
+- row 
+
+- col 12
+
+breakpoint per adattare ai diversi schermi(telefono, pc)

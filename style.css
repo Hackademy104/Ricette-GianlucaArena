@@ -1,0 +1,24 @@
+.navbar{
+    height: 100px;
+}
+
+.img-fluid{
+    width: 50%;
+    height: 400px;
+    object-fit: contain;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardStyle{
+    width: 18rem;
+    border-radius: 30px;
+}
+
+.img-card{
+    border-radius: 30px;
+}
